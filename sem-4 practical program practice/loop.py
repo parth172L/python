@@ -1,1 +1,0 @@
-print("sorry maa\n" * 1000)
